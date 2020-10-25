@@ -31,6 +31,10 @@
         <th>引用</th>
         <th>> text</th>
       </tr>
+      <tr>
+        <th>テーブル</th>
+        <th>|  TH  |  TH  |<br>| ---- | ---- |<br>|  TD  |  TD  |<br>|  TD  |  TD  |</th>
+      </tr>
     </table>
   </div>
 </template>
